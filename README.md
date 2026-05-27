@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Rahul Bhardwaj 👋
 
-<!--
-**rahul246276/rahul246276** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Web Developer from Delhi, India  
+I build modern, responsive and real-world web applications using React.js, Node.js, Express.js and MongoDB.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+HTML | CSS | JavaScript | React.js | Redux Toolkit | Node.js | Express.js | MongoDB | Git | GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- TutorBazaar – Full Stack Education Platform
+- E-Commerce Web App
+- Automobile CRM
+- Developer Portfolio
+
+## 📫 Connect With Me
+workwithrahul24by7@gmail.com
