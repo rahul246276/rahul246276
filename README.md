@@ -192,16 +192,17 @@ debugging and maintainability.
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=rahul246276&show_icons=true&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=rahul246276&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"
     height="165"
     alt="GitHub statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul246276&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul246276&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"
     height="165"
     alt="Most used languages"
   />
